@@ -1,0 +1,6 @@
+#genres button{
+    background-color:transparent;color:rgb(252,46,146);
+}
+button:hover{
+    opacity:90%;
+}
